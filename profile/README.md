@@ -11,7 +11,7 @@ This page aims at being a companion for the paper "A blockchain-based model for 
 Example of the [simple state machine configuration specifications](https://github.com/bc24-miage-dev/BC24-Smart-Traceability/blob/master/resource_templates/templates.ts)
 
 ## Trace SAS Smart Contract
-The [Trace SAS Smart contract](https://github.com/bc24-miage-dev/BC24-Smart-Traceability/blob/master/contracts/BC24.sol) follows the BC24 smart contract model. It has been extensively tested, get more details on the [repository][https://github.com/bc24-miage-dev/BC24-Smart-Traceability]
+The [Trace SAS Smart contract](https://github.com/bc24-miage-dev/BC24-Smart-Traceability/blob/master/contracts/BC24.sol) follows the BC24 smart contract model. It has been extensively tested, get more details on the [repository](https://github.com/bc24-miage-dev/BC24-Smart-Traceability)
 
 # Software artefacts Repositories
 
