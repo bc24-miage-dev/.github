@@ -13,6 +13,11 @@ Example of the [simple state machine configuration specifications](https://githu
 ## Trace SAS Smart Contract
 The [Trace SAS Smart contract](https://github.com/bc24-miage-dev/BC24-Smart-Traceability/blob/master/contracts/BC24.sol) follows the BC24 smart contract model. It has been extensively tested, get more details on the [repository](https://github.com/bc24-miage-dev/BC24-Smart-Traceability)
 
+## Format StateMachineSpec verification tool
+
+We provide a [software component](https://github.com/bc24-miage-dev/BC24-Smart-Traceability/tree/master/template_validator
+) to verify that the [StateMachineSpecs](https://github.com/bc24-miage-dev/BC24-Smart-Traceability/blob/master/resource_templates/templates.ts) is valid.
+
 # Software artefacts Repositories
 
 * GUI: [BC24-Trace_Connect](https://github.com/bc24-miage-dev/BC24-Trace_Connect)
